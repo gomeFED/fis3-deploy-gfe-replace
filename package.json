@@ -1,0 +1,21 @@
+{
+    "name": "fis3-deploy-gfe-replace",
+    "version": "1.0.3",
+    "description": "本插件将会根据配置替换字符串",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gomeFED/fis3-deploy-gfe-replace.git"
+    },
+    "keywords": [
+        "gfe",
+        "fis3",
+        "replace"
+    ],
+    "author": "gomeFED",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gomeFED/fis3-deploy-gfe-replace/issues"
+    },
+    "homepage": "https://github.com/gomeFED/fis3-deploy-gfe-replace#readme"
+}
